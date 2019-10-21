@@ -25,7 +25,7 @@ SECRET_KEY = '%nve0uj*3bjoe$q(95ip32)gay9u5%+=p6k4-$sa!de+(_x83e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['api-servicenet-desafio.com', 'servicenet-desafio.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition

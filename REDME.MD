@@ -9,3 +9,5 @@ Api implementada com django para efetuar crud num database mysql
 
 #DOCUMENTO ROTAS API REST
 http://127.0.0.1:8000/api/docs/
+
+![Image description](img/image.png)
