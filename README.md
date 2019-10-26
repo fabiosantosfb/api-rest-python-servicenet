@@ -1,3 +1,6 @@
+# api-rest-python-servicenet
+api rest django
+
 #API REST PYTHON
 Api implementada com django para efetuar crud num database mysql
 
